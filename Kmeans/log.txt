@@ -1,0 +1,125 @@
+========================
+Gpu and cc: C 3.3
+Input size: 30000000, number of clusters: 10
+Ending error: 0.000000, threshold: 0.010000
+Needed iterations: 6, Ending error: 1682796640
+Block num: 29297, threads per block: 1024Gpu time: 524.229431
+========================
+Gpu and cc: ¶ø„Àt#ölãwt;5 3.3
+Input size: 20000000, number of clusters: 10
+Ending error: 0.000000, threshold: 0.010000
+Needed iterations: 6, Ending error: 1682796640
+Block num: 19532, threads per block: 1024
+Gpu time: 357.011169
+========================
+Gpu and cc: C 3.3
+Input size: 20000000, number of clusters: 32
+Ending error: 0.000000, threshold: 0.010000
+Needed iterations: 13, Ending error: 1682796640
+Block num: 19532, threads per block: 1024
+Gpu time: 1108.385254
+========================
+Gpu and cc:  « 3.3
+Input size: 30000000, number of clusters: 32
+Ending error: 0.009990, threshold: 0.010000
+Needed iterations: 9, Ending error: 1682796640
+Block num: 29297, threads per block: 1024
+Gpu time: 1181.533813
+========================
+Gpu and cc: ÔÓà 3.0
+Input size: 30000000, number of clusters: 128
+Ending error: 0.005994, threshold: 0.010000
+Needed iterations: 14, Ending error: 1682796640
+Block num: 29297, threads per block: 1024
+Gpu time: 7039.496582
+========================
+Gpu and cc: GeForce GTX 650 Ti 3.0
+Input size: 30000000, number of clusters: 128
+Ending error: 0.005994, threshold: 0.010000
+Needed iterations: 14, Ending error: 1682796640
+Block num: 29297, threads per block: 1024
+Gpu time: 7044.166504
+========================
+Gpu and cc: GeForce GTX 650 Ti 3.0
+Input size: 20000000, number of clusters: 128
+Ending error: 0.003997, threshold: 0.010000
+Needed iterations: 14, Ending error: 1682796640
+Block num: 19532, threads per block: 1024
+Gpu time: 4712.060547
+========================
+Gpu and cc: GeForce GTX 650 Ti 3.0
+Input size: 20000000, number of clusters: 128
+Ending error: 0.994000, threshold: 0.010000
+Needed iterations: 30
+Block num: 19532, threads per block: 1024
+Gpu time: 13686.813477
+========================
+Gpu and cc: GeForce GTX 650 Ti 3.0
+Input size: 30000000, number of clusters: 128
+Ending error: 0.005994, threshold: 0.010000
+Needed iterations: 14
+Block num: 29297, threads per block: 1024
+Gpu time: 7034.647461
+========================
+Gpu and cc: GeForce GTX 650 Ti 3.0
+Input size: 30000000, number of clusters: 128
+Ending error: 0.005994, threshold: 0.010000
+Needed iterations: 14
+Block num: 29297, threads per block: 1024
+Gpu time: 7037.702148
+========================
+Gpu and cc: GeForce GTX 650 Ti 3.0
+Input size: 30000000, number of clusters: 128
+Ending error: 0.008028, threshold: 0.010000
+Needed iterations: 22
+Block num: 58594, threads per block: 512
+Gpu time: 11210.451172
+========================
+Gpu and cc: GeForce GTX 650 Ti 3.0
+Input size: 30000000, number of clusters: 128
+Ending error: 0.005994, threshold: 0.010000
+Needed iterations: 14
+Block num: 29297, threads per block: 1024
+Gpu time: 7033.464355
+========================
+Gpu and cc: GeForce GTX 650 Ti 3.0
+Input size: 30000000, number of clusters: 128
+Ending error: 0.005994, threshold: 0.010000
+Needed iterations: 14
+Block num: 29297, threads per block: 1024
+Gpu time: 7034.887695
+========================
+Gpu and cc: GeForce GTX 650 Ti 3.0
+Input size: 30000000, number of clusters: 128
+Ending error: 0.005994, threshold: 0.010000
+Needed iterations: 14
+Block num: 29297, threads per block: 1024
+Gpu time: 7035.730957
+========================
+Gpu and cc: GeForce GTX 650 Ti 3.0
+Input size: 30000000, number of clusters: 128
+Ending error: 0.005994, threshold: 0.010000
+Needed iterations: 14
+Block num: 29297, threads per block: 1024
+Gpu time: 7037.664551
+========================
+Gpu and cc: GeForce GTX 650 Ti 3.0
+Input size: 30000000, number of clusters: 128
+Ending error: 0.005994, threshold: 0.010000
+Needed iterations: 14
+Block num: 29297, threads per block: 1024
+Gpu time: 7043.164063
+========================
+Gpu and cc: GeForce GTX 650 Ti 3.0
+Input size: 30000000, number of clusters: 128
+Ending error: 0.005994, threshold: 0.010000
+Needed iterations: 14
+Block num: 29297, threads per block: 1024
+Gpu time: 7116.287109
+========================
+Gpu and cc: GeForce GTX 650 Ti 3.0
+Input size: 30000000, number of clusters: 128
+Ending error: 0.005994, threshold: 0.010000
+Needed iterations: 14
+Block num: 29297, threads per block: 1024
+Gpu time: 7039.973145
